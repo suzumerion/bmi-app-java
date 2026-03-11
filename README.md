@@ -5,9 +5,9 @@ Javaで作成したBMI計算アプリです。
 
 ## 使用技術
 
-Java  
-Swing  
-JTable  
+・Java  
+・Swing  
+・JTable  
 
 ## 主な機能
 
@@ -23,9 +23,9 @@ JTableを使用してBMI判定表を表示しました。
 
 ## 学んだこと
 
-GUIアプリケーションの作成  
-イベント処理（ActionListener）  
-BMI計算ロジックの実装
+・GUIアプリケーションの作成  
+・イベント処理（ActionListener）  
+・BMI計算ロジックの実装
 
 ## アプリ画面
 ![BMIアプリ](bmi-screen.png)
