@@ -7,6 +7,12 @@ Javaで作成したBMI計算アプリです。
 
 ![BMIアプリ](bmi-screen.png)
 
+## デモ動画
+
+アプリの動作はこちらの動画で確認できます。
+
+https://youtu.be/B1ZBs0SXlD0
+
 ## 使用技術
 
 ・Java  
